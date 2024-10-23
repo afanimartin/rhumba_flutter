@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "769058541734",
+    "project_id": "rhumba-app",
+    "storage_bucket": "rhumba-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:769058541734:android:dac8d70f8091ddfc9b6467",
+        "android_client_info": {
+          "package_name": "com.rhumba.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBVArxrKQC2SZpopJEgGABqu_NQO49Ywj8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
